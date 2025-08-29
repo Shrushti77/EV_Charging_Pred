@@ -65,13 +65,16 @@ streamlit run app.py
 ```
 ---
 
-## 📈 Screenshots (optional)
+## 📈 Screenshots 
+<img width="1919" height="1006" alt="Screenshot 2025-08-25 071056" src="https://github.com/user-attachments/assets/ae145533-cfaf-4e89-a652-fe47b636f826" />
 
-<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/d479172f-8f13-4021-80e5-5ce1f546652b" />
+## Single region forecast view
+<img width="1919" height="389" alt="Screenshot 2025-08-25 071807" src="https://github.com/user-attachments/assets/1b81779f-0a27-4526-9371-05d875a17119" />
+<img width="1899" height="1079" alt="Screenshot 2025-08-25 072022" src="https://github.com/user-attachments/assets/91328fe8-8581-4ee7-b1a9-456b4d466592" />
 
-- Single region forecast view
-- Multi-region comparison
+## Multi-region comparison view
+<img width="1919" height="509" alt="Screenshot 2025-08-25 072152" src="https://github.com/user-attachments/assets/a1942895-91e3-454a-8efd-5261b25342e1" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-25 072246" src="https://github.com/user-attachments/assets/41c621ce-4527-43b1-a0a3-184d91bb0bd7" />
 
-## 🙏 Acknowledgments
 
-Developed as part of the AICTE – Skills4Future program, supported by Shell India & Edunet Foundation.
+
